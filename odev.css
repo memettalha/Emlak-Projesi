@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display:flex;
+}
+
+
+.section-1{
+    background-color: #212529;
+}
+
+
+.section-1 p{
+    color:rgb(255,255,255,0.5);
+    font-size:1.25rem;
+}
+
+.container-2{
+    display:flex;
+}
+
+
+.card{
+    border:none;
+}
+
+.card-footer{
+    border:none;
+    padding:16px 8px ;
+}
+
+
+
+.container-3 p{
+    color:black;
+    display:flex;
+    justify-content: space-around;
+}
+
+.icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+}
+
+.sag{
+    display:flex;
+}
+
+
+
+.h2{
+    font-size:1.25rem;
+}
+
+.container{
+    display:flex;
+}
+
+.bi{
+    font-size:1.5rem;
+}
+
+.yazi{
+    font-size: 1.5rem;
+}
+
+.ceo{
+    display:flex;
+    font-weight:bold;
+}
+
+.section-3 h2{
+    font-weight: bold;
+}
+
+.section-3 p{
+    font-size:1.25rem;
+    color:#6c757d;
+}
+
+.card .news{
+    color:white;
+    font-size:1.25rem;
+}
+
+.card a{
+    text-decoration:none;
+    color: #000;
+}
+
+.card p{
+    font-size:1rem;
+}
+
+.card-footer{
+    display:flex;
+}
+
+.card image{
+    color:rgba(33,37,41);
+}
+
+.products p{
+    color:rgb(255,255,255);
+    opacity:0.5;
+}
+
+.products .email{
+    display:flex;
+}
+
+.products .row{
+    display:flex;
+}
+
+.card .container{
+    display:flex;
+}
+
+.card .image{
+    width:50px;
+    height:50px;
+}
+
+.mecit .image{
+    width:50px;
+    height:50px;
+}
+
+.price{
+    font-weight:700;
+    position:relative;
+    font-size:22px;
+    color:#bc222a;
+    line-height:1.4;
+    padding-left: 0.35em;
+}
+
+.simge{
+    width:20px;
+    height:15px;
+    border-radius:4px;
+    background:#f4f5f7;
+}

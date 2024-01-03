@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.section-1 p{
+    color:#6c757d ;
+}
+
+.section-1 input{
+    height:100px;
+ 
+}
+
+.section-1 i{
+    font-size:1.5rem;
+    text-align: center;
+    
+}
+
+.section-1 button{
+    height:40px;
+}
+.form-control {
+    display: block;
+    border: 1px solid #ced4da;
+
+}
+
+.section-1 .mektup{
+    display:inline-flex;
+    width:5rem;
+    height:3rem;
+
+}
+
+.section-2 .contact{
+    display:flex;
+}
+
+
+.section-2 .row {
+    padding-top:100px;
+    padding-bottom:50px;
+}
